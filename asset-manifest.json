@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.259ac223.css",
+    "main.js": "/static/js/main.69553f9d.js",
+    "static/media/clarity_zoom-in-line.svg": "/static/media/clarity_zoom-in-line.9ee34c4341ab0e13c6714c52c17ffd8b.svg",
+    "static/media/fluent-emoji-high-contrast_heart-decoration-dark.svg": "/static/media/fluent-emoji-high-contrast_heart-decoration-dark.644ef69e1fc1727e5baa959ef0e82dcd.svg",
+    "static/media/fluent-emoji-high-contrast_heart-decoration.svg": "/static/media/fluent-emoji-high-contrast_heart-decoration.84de7e868a51da0d4c390248de0f1402.svg",
+    "index.html": "/index.html",
+    "main.259ac223.css.map": "/static/css/main.259ac223.css.map",
+    "main.69553f9d.js.map": "/static/js/main.69553f9d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.259ac223.css",
+    "static/js/main.69553f9d.js"
+  ]
+}
